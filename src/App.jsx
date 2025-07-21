@@ -6,6 +6,7 @@ import About from './components/About'
 import MySkill from './components/MySkill'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
+import Footer from './components/Footer'
 function App() {
   return (
     <div className='bg-gray-100'>
@@ -18,6 +19,7 @@ function App() {
       <Projects/>
       <MySkill />
       <Contact />
+      <Footer />
     </div>
   )
 }
