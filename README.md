@@ -1,7 +1,7 @@
 # Skills used in the project: 
 
-- [ReactJS]
-- [Tailwind&npsb;CSS]
+- ReactJS
+- Tailwind CSS
 
 ## Steps I followed 
 
